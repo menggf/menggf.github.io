@@ -17,12 +17,14 @@ avatar: "/img/DerekOgle.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  aboutme: "About Us"
-  Resource: "research"
+  About Us: "aboutme"
+  Resource: 
+        - Software and Tools: "tools"
+        - Data: "data"
   People: "personal"
   Publication: "publication"
   Contact: "contact"
-  Home: ""
+  Home: "https://menggf.github.io"
 
 # --- Footer options --- #
 
