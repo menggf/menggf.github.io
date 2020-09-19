@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Derek Ogle
-subtitle: Fisheries & Stats Professor / R Enthusiast
+title: Computational drug discovery
+subtitle: Computational drug discovery
 css: "/css/index.css"
-meta-title: "Derek Ogle"
-meta-description: "Professor of Mathemetical Sciences and Natural Resources at Northland College."
-bigimg:
+meta-title: "Computational drug discovery"
+meta-description: "We work on computational drug discovery"
+bigimg: 
   - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
   - "/img/big-imgs/Arizona_2017b.jpg" : "Arizona, 2017"
   - "/img/big-imgs/MuskegSunset17.JPG" : "Winter Sunset, Muskeg, 2017"
@@ -60,10 +60,9 @@ bigimg:
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="http://derekogle.com/fishR/" role="button" class="btn btn-primary">fishR</a> 
-<a href="http://derekogle.com/IFAR/" role="button" class="btn btn-primary">IFAR Book</a> 
-<a href="http://derekogle.com/NCMTH107/" role="button" class="btn btn-primary">MTH107</a> 
-<a href="http://derekogle.com/NCMTH207/" role="button" class="btn btn-primary">MTH207</a> 
-<a href="http://derekogle.com/NCGraphing/" role="button" class="btn btn-primary">MTH250</a> 
-<a href="http://derekogle.com/NCHighways/" role="button" class="btn btn-primary">Highways</a> 
+<a href="http://menggf.github.io/aboutme" role="button" class="btn btn-primary">About Us</a> 
+<a href="http://menggf.github.io/resource" role="button" class="btn btn-primary">Resource</a> 
+<a href="http://menggf.github.io/publication" role="button" class="btn btn-primary">Publication</a> 
+<a href="http://menggf.github.io/people" role="button" class="btn btn-primary">People</a> 
+<a href="http://menggf.github.io/contact" role="button" class="btn btn-primary">Contact</a> 
 </div>
