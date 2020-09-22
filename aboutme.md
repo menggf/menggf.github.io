@@ -3,7 +3,7 @@ layout: page
 title: Dr. Derek H. Ogle
 ---
 
-##  Professor of Mathematical Sciences and Natural Resources, [Northland College](http://www.northland.edu/)
+##  Professor of Mathematical Sciences and Natural Resources, [Northland College]
 
 ### Contact
 * Center for Science and the Environment 228
