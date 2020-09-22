@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doing Science!
+title: Publication
 ---
 
 <div align="center">
