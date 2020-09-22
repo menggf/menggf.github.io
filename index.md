@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational drug discovery
-subtitle: Computational drug discovery
+subtitle: Develop new computational methods and apply them to identify drugs for age-depedent chronic diseases, especially including Azheimer's disease
 css: "/css/index.css"
 meta-title: "Computational drug discovery"
 meta-description: "We work on computational drug discovery"
