@@ -6,7 +6,7 @@ css: "/css/index.css"
 meta-title: "Computational drug discovery"
 meta-description: "We work on computational drug discovery"
 bigimg: 
-  - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
+  - "/img/big-imgs/molecular.jpg" : ""
 ---
 
 <div style="text-align:center">
