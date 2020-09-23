@@ -8,7 +8,7 @@ baseurl: ""
 # Name of website
 title: Computational Drug discovery
 # Short description of your site
-description: We develop new computational methods and apply them to identify drugs for age-depedent chronic diseases, especially including Azheimer's disease.
+description: To develop new computational methods and apply them to identify drugs for age-associated chronic diseases, especially Azheimer's disease.
 
 # --- Navigation bar options --- #
 # Image to show in the navigation bar - image must be a square (width = height)
