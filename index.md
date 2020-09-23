@@ -11,7 +11,7 @@ bigimg:
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="http://menggf.github.io/aboutme" role="button" class="btn btn-primary">About Us</a> 
+<a href="http://menggf.github.io/aboutus" role="button" class="btn btn-primary">About Us</a> 
 <a href="http://menggf.github.io/resource" role="button" class="btn btn-primary">Resource</a> 
 <a href="http://menggf.github.io/publication" role="button" class="btn btn-primary">Publication</a> 
 <a href="http://menggf.github.io/people" role="button" class="btn btn-primary">People</a> 

@@ -5,10 +5,16 @@ title: Computational resource
 
 ## Softwares
 
-* [DEComplexDisease](http://www.github.io/menggf/DEComplexDisease): A tool to identify the patient-DEG moudels, used for precise medicine discovery 
-* [BiReg](http://www.github.io/menggf/bireg): a tools for discovery of partial regulation
-</div>
+* [DEComplexDisease](http://www.github.com/menggf/DEComplexDisease): A tool to identify the patient-DEG moudels, used for precise medicine discovery 
+* [BiReg](http://www.github.com/menggf/bireg): a tools for discovery of partial transcriptional regulation
+* [transgeneR](http://www.github.com/menggf/transgeneR): a R package for transgene intergration and rearragement discovery using NGS data
+* [TSD](http://www.github.com/menggf/tsd): a perl package for complex rearragement discovery using long reads. It is useful for studies of virus infection, transgene intergration and cancer CNV.
+## Web tools
+
+* [DEComplexDisease](http://www.github.com/menggf/DEComplexDisease): A tool to identify the patient-DEG moudels, used for precise medicine discovery 
+* [BiReg](http://www.github.com/menggf/bireg): a tools for discovery of partial regulation
+
 ## Data
 
-* [DEComplexDisease](http://www.github.io/menggf/DEComplexDisease): A tool to identify the patient-DEG moudels, used for precise medicine discovery 
-* [BiReg](http://www.github.io/menggf/bireg): a tools for discovery of partial regulation
+* [DEComplexDisease](http://www.github.com/menggf/DEComplexDisease): A tool to identify the patient-DEG moudels, used for precise medicine discovery 
+* [BiReg](http://www.github.com/menggf/bireg): a tools for discovery of partial regulation
