@@ -17,10 +17,10 @@ avatar: "/img/DerekOgle.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Resource: 
-        - Software and Tools: "tools"
-        - Data: "data"
+        - Software and Tools: "resource"
+        - Data: "resource"
   People: "personal"
   Publication: "publication"
   Contact: "contact"
