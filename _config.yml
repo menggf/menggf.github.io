@@ -19,8 +19,9 @@ avatar: "/img/DerekOgle.jpg"
 navbar-links:
   About Us: "aboutus"
   Resource: 
-        - Software and Tools: "resource"
-        - Data: "resource"
+        - Softwares: "resource#software"
+        - Web tools: "resource#webtools"
+        - Data: "resource#data"
   People: "personal"
   Publication: "publication"
   Contact: "contact"
