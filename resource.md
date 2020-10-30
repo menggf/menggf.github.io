@@ -16,8 +16,7 @@ title: Computational resource
 
 ## Web tools
 
-* [DEComplexDisease](http://www.github.com/menggf/DEComplexDisease): A tool to identify the patient-DEG moudels, used for precise medicine discovery 
-* [BiReg](http://www.github.com/menggf/bireg): a tools for discovery of partial regulation
+* [HiC Visualization](http://www.menglab.pub/hic): An online tool to visualize the Hi-C loops for AD and aging
 
 <a id="data"></a>
 
